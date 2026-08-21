@@ -1,0 +1,182 @@
+/* ============================================
+   BAREVNÁ PALETA
+   ============================================
+   Proměnné v :root si nadefinuješ jednou a pak je používáš
+   všude přes var(--nazev). Když budeš chtít změnit barvu webu,
+   měníš ji jen tady na jednom místě.                          */
+
+:root {
+  --bg: #fbfaf7;
+  --text: #2a2621;
+  --muted: #7a7268;
+  --accent: #a8562f;
+  --border: #e6e0d6;
+  --card-bg: #ffffff;
+  --max-width: 680px;
+}
+
+/* Pokud má návštěvník v systému zapnutý tmavý režim,
+   přepíšou se tyhle proměnné a web sám ztmavne.            */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1c1a17;
+    --text: #ece7de;
+    --muted: #9c9488;
+    --accent: #e0895b;
+    --border: #35312b;
+    --card-bg: #232019;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0 1.25rem 4rem;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Iowan Old Style", "Georgia", "Charter", serif;
+  line-height: 1.65;
+}
+
+/* ============================================
+   HLAVIČKA A NAVIGACE
+   ============================================ */
+
+header {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2.5rem 0 0;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Název webu vlevo nahoře. Je to odkaz na úvodní stránku,
+   ale nechceme, aby vypadal jako podtržený modrý odkaz.    */
+.site-title {
+  display: inline-block;
+  font-size: 1.35rem;
+  font-weight: bold;
+  color: var(--text);
+  text-decoration: none;   /* zruší podtržení */
+  margin-bottom: 1.25rem;
+}
+
+/* display:flex srovná odkazy vedle sebe do řádku.
+   gap je mezera mezi nimi. flex-wrap znamená, že na úzkém
+   displeji telefonu se zalomí na další řádek místo přetečení. */
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.nav-link {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.95rem;
+  color: var(--muted);
+  text-decoration: none;
+  padding-bottom: 0.7rem;
+
+  /* Průhledná čára pod odkazem. Je tu pořád, jen ji není vidět –
+     díky tomu se text při najetí myší neposune o 2 pixely. */
+  border-bottom: 2px solid transparent;
+
+  transition: color 0.15s;   /* barva se mění plynule, ne skokem */
+}
+
+/* :hover = stav, kdy je na odkazu myš */
+.nav-link:hover {
+  color: var(--text);
+}
+
+/* Odkaz na stránku, na které zrovna jsem. Ten štítek is-active
+   si v každém HTML souboru posouváš na správný odkaz.      */
+.nav-link.is-active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* ============================================
+   OBSAH STRÁNKY
+   ============================================ */
+
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.page-title {
+  margin: 2.5rem 0 0.4rem;
+  font-size: 1.9rem;
+  letter-spacing: -0.01em;
+}
+
+.page-intro {
+  margin: 0 0 0.5rem;
+  color: var(--muted);
+}
+
+/* ============================================
+   ZÁPISKY NA BLOGU
+   ============================================ */
+
+.post {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.5rem 1.75rem;
+  margin-top: 1.75rem;
+}
+
+.post time {
+  display: block;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin-bottom: 0.4rem;
+}
+
+.post h2 {
+  margin: 0 0 0.6rem;
+  font-size: 1.4rem;
+}
+
+.post p {
+  margin: 0;
+}
+
+.empty {
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 2rem;
+}
+
+/* ============================================
+   PATIČKA
+   ============================================ */
+
+footer {
+  max-width: var(--max-width);
+  margin: 3.5rem auto 0;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+footer a {
+  color: inherit;
+}
+
+code {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.1em 0.35em;
+  font-size: 0.9em;
+}
