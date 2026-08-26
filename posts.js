@@ -11,7 +11,7 @@
 // ============================================
 
 const posts = [
-  {  {
+  {
     datum: "2024-10-05",
     nadpis: "Controversial Investing World, Active vs. Passive investing",
     text: "<em>Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. " +
