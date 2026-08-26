@@ -12,6 +12,38 @@
 
 const posts = [
   {
+    datum: "2026-04-17",
+    nadpis: "17.04.2026",
+    text: "S&P500, globální trhy kole 30 P/E. Bojim, bojim…<br><br>" +
+          "Jsem si vědom studií, které ukazují, že z dlouhodobého hlediska se obecně vyplácí " +
+          "investovat co nejdříve a nesnažit se trh časovat. Zajímalo by mě ale, zda v tomto " +
+          "kontextu nehraje významnější roli úroveň valuací. V současnosti se P/E u amerických " +
+          "i globálních akciových trhů pohybuje přibližně kolem hodnoty 30, což je poměrně " +
+          "vysoké číslo."
+  },
+  {
+    datum: "2026-04-03",
+    nadpis: "03.04.2026",
+    text: "Všichni vydělávají, mladí finfluenceři. Bojim, bojim."
+  },
+  {
+    datum: "2026-03-16",
+    nadpis: "16.03.2026",
+    text: "Buffet již skončil v Berkshire. Ale jeho konec určitě není! Jakou filantropii " +
+          "předvede, bude neskutečné. Spekuluji, že jeho nástupcem v podobném myšlení bude " +
+          "Morgan Housel."
+  },
+  {
+    datum: "2025-03-22",
+    nadpis: "22.03.2025",
+    text: "Znám lidi, kteří jsou výborní v matematice, ale udělali iracionální finanční " +
+          "rozhodnutí. Konkrétně měli nad 90 percentil v SCIO matematice, ale koupili Nvidii " +
+          "na vrcholu.<br><br>" +
+          "Nechci nikoho urážet, jen poukázat, že investování není pouze o rozhodování na " +
+          "základě matematiky, analýze a racionálním uvažování (spreadsheet), ale velmi velmi " +
+          "důležité je lidské chování, emoce jako chamtivost a strach nebo fomo."
+  },
+  {
     datum: "2024-11-16",
     nadpis: "Téma pro knihu Akciový trh a člověk (Stock Market and Human Behavior)",
     text: "Každý člověk je svým způsobem pro ostatní jako akciová společnost. Dle mého názoru, " +
