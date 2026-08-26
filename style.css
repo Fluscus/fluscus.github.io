@@ -156,6 +156,45 @@ main {
 }
 
 /* ============================================
+   CITÁTY
+   ============================================ */
+
+.citat-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.5rem 1.75rem;
+  margin-top: 1.75rem;
+  cursor: pointer;
+}
+
+.citat-text {
+  margin: 0 0 0.6rem;
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+.citat-autor {
+  margin: 0;
+  color: var(--muted);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.85rem;
+}
+
+/* Komentář je schovaný, dokud karta nemá třídu is-open
+   (tu přepíná klik v citaty-script.js). */
+.citat-komentar {
+  display: none;
+  margin: 1rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.citat-card.is-open .citat-komentar {
+  display: block;
+}
+
+/* ============================================
    PATIČKA
    ============================================ */
 

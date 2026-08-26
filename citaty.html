@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Články · Můj deník</title>
+  <title>Citáty · Můj deník</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -13,18 +13,19 @@
 
     <nav class="nav">
       <a href="index.html"   class="nav-link">Blog</a>
-      <a href="clanky.html"  class="nav-link is-active">Články</a>
+      <a href="clanky.html"  class="nav-link">Články</a>
       <a href="analyzy.html" class="nav-link">Analýzy</a>
-      <a href="citaty.html"  class="nav-link">Citáty</a>
+      <a href="citaty.html"  class="nav-link is-active">Citáty</a>
       <a href="o-mne.html"   class="nav-link">O mně</a>
     </nav>
   </header>
 
   <main>
-    <h1 class="page-title">Články</h1>
-    <p class="page-intro">Delší texty, kde si na téma dám záležet.</p>
+    <h1 class="page-title">Citáty</h1>
+    <p class="page-intro">Citáty, co mě zaujaly, a moje myšlenky k nim. Klikni na citát pro rozbalení.</p>
 
-    <p class="empty">Zatím tu nic není. První článek se chystá.</p>
+    <!-- Citáty se sem vykreslí automaticky ze souboru citaty.js -->
+    <div id="citaty"></div>
   </main>
 
   <footer>
@@ -32,5 +33,7 @@
       <a href="https://github.com/Fluscus/Fluscus.github.io">GitHubu</a></p>
   </footer>
 
+  <script src="citaty.js"></script>
+  <script src="citaty-script.js"></script>
 </body>
 </html>
