@@ -12,6 +12,55 @@
 
 const posts = [
   {
+    datum: "2024-11-16",
+    nadpis: "Téma pro knihu Akciový trh a člověk (Stock Market and Human Behavior)",
+    text: "Každý člověk je svým způsobem pro ostatní jako akciová společnost. Dle mého názoru, " +
+          "bychom si měli vybírat firmu, která má výbornou ziskovost, ale také tu kterou " +
+          "milujeme a věříme ji. Mnoho lidí se snaží najít tu nejatraktivnější investici, ti " +
+          "výherní šťastlivci mohou společnost z části vlastnit. Dnes je to u akcií velice " +
+          "jednoduché. Avšak musí provést důkladnou analýzu, aby se nespálily a neztratily čas. " +
+          "Po analýze dokončí svoji počáteční investici. Poté nastává ten nejtěžší čas, a to " +
+          "být trpělivý, udržet svoji pozici a navyšovat ji pravidelně. Jelikož spousta analýz " +
+          "a grafů potvrzuje, že pravidelná investice pravděpodobněji více zhodnotí peníze více " +
+          "než časování, je dobré se držet této strategie. Ještě investor musí doufat, že se " +
+          "společnost nezmění a nezačne být v červených číslech.<br><br>" +
+          "Pokud ale vybral dobře (stačí průměrně dobře :) ), společnost začne odměňovat své " +
+          "investory v podobě výnosu nebo dividend.<br><br>" +
+          "Na konci celé investice do společnosti se na scénu objeví otázka ohledně odprodeje. " +
+          "Myslím si, že spousta lidí, pokud se jim podaří vybrat tu rozumnou investici, " +
+          "zjistí, že nebudou po dlouhé době ji chtít, a dokonce ani schopni, odprodat. Jak " +
+          "říká Warren Buffet „Our favourite holding period is forever.“<br><br>" +
+          "Abych dovysvětlil můj pohled na toto téma, podívám se teď na druhou stranu, na " +
+          "člověka. Jako člověk budu také hledat přátele a partnera (společnost) podle toho, " +
+          "jestli mu můžu věřit, svěřit se mu se všemi tajemstvími a bude mě dělat " +
+          "šťastným.<br><br>" +
+          "Důležitý bod je také u očekávání. Šťastné přátelství či manželství nastává, pokud " +
+          "máme malá očekávání. Pro mě nejlepší stav je tehdy, když děláme pro druhou " +
+          "polovičku neustále hezké věci a neočekáváme vůbec nic nazpátek. (Morgan " +
+          "Housel)<br><br>" +
+          "Uvidíme, že na oplátku se bude snažit být co nejtransparentnější pro blízké, aby " +
+          "viděli, co vlastní. Bude jim říkat všechna tajemství a bude otevřený. Na ostatní " +
+          "může srát, ale zase jim umožní, aby měli možnost stát se jeho novými " +
+          "investory.<br><br>" +
+          "Buybacky, dividendy či růst akcií představují vděk od druhé osoby za neustálou " +
+          "podporu, chování a strávený čas mezi vámi. Nechceme vidět dlouhodobě volatilní " +
+          "vztah či rychlé neudržitelné přátelství. Chce to čas. Zlepšení vztahu o 1 % týdně je " +
+          "mnohem více udržitelné a dlouhodobé než rychlé zlepšení vztahu o 200 % a následný " +
+          "prudký pád pod počáteční hranici a mnohem níže.<br><br>" +
+          "Není to zvláštní, neboť všechny firmy jsou složeny z lidí a jejich rozhodnutí. " +
+          "To jde ruku v ruce k dalším tématům jako vztah k tělu a zdravému způsobu " +
+          "života.<br><br>" +
+          "<strong>Spolupráce vs. Zápasení a Předhánění</strong><br><br>" +
+          "Svět, ve kterém se právě nacházím, je o neustálém předhánění se. Co člověk dokáže " +
+          "udělat pro to, aby ho ostatní obdivovali, mi přijde zbytečné. Nejvíce zbytečné při " +
+          "společných aktivitách.<br><br>" +
+          "Jelikož jsem se ji párkrát setkal např. ve škole s prací s ostatními, mám svůj " +
+          "subjektivní názor. Místo abychom si společně k tématu sedli a diskutovali, začátku " +
+          "spíše vypadají jako nepříjemné hádky.<br><br>" +
+          "Po chvíli neefektivní práce se to začne zhoršovat. Udělal jsem toho více než ty, " +
+          "teď je to na tobě! K čemu toto přispívá?"
+  },
+  {
     datum: "2024-10-30",
     nadpis: "30.10.2024",
     text: "Uvědomuji si, že jsem měl velké štěstí při prvním setkání s investičním světem. " +
