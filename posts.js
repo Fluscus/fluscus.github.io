@@ -160,13 +160,5 @@ const posts = [
           "We will find the best way by examining the issue from all angels. Students will try to demonstrate " +
           "their thesis in front of class and then discuss the pros and cons. Finally, we figure out the best " +
           "reasonable options."
-  },
-  {
-    datum: "2026-08-20",
-    nadpis: "Jak to celé funguje",
-    text: "Tenhle web funguje tak, že skript <code>script.js</code> vezme " +
-          "seznam zápisků z tohoto souboru (<code>posts.js</code>) a vykreslí " +
-          "je na stránku. Takže abys přidal nový zápisek, <strong>neupravuješ " +
-          "index.html</strong>, ale právě tenhle soubor."
   }
 ];
