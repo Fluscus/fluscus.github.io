@@ -12,6 +12,19 @@
 
 const posts = [
   {
+    datum: "2024-10-30",
+    nadpis: "30.10.2024",
+    text: "Uvědomuji si, že jsem měl velké štěstí při prvním setkání s investičním světem. " +
+          "Dostal jsem na hubu. Díky tomu jsem se stal více obezřetný a trpělivý. Neustále si " +
+          "představuji, co by se stalo, kdyby mi počáteční spekulace vyšly. Začal bych ještě " +
+          "více podstupovat riziko? Snažil bych se obeznámit moji rodinu s investováním a " +
+          "mými radami? Měl bych zvýšené sebevědomí a šířil bych moje výsledky? Netuším, co by " +
+          "se uvnitř mě odehrávalo. Ale dle mého názoru, je pravděpodobnější, že by to mělo " +
+          "více negativní efekt, jak pro mě, tak i pro okolí.<br><br>" +
+          "Také by mě zajímalo, zda bych se více vzdělával, či ne. Měl bych více zkoumat " +
+          "problémy z více úhlů pohledu…"
+  },
+  {
     datum: "2024-10-05",
     nadpis: "Controversial Investing World, Active vs. Passive investing",
     text: "<em>Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. " +
