@@ -11,6 +11,26 @@
 
 const citaty = [
   {
+    citat: "Nothing in life is as important as you think it is when you are thinking about it.",
+    autor: "Daniel Kahneman",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
+    citat: "The best math you can learn is how to calculate the future cost of current decisions.",
+    autor: "Neznámý autor",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
+    citat: "Just before you die, you meet all the versions of yourself that you could have " +
+           "been. The definition of a good life is that in that process, you are pleased " +
+           "with how you turn out.",
+    autor: "Neznámý autor",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
     citat: "The ability to do what you want, when you want, with who you want, for as long " +
            "as you want to, pays the highest dividend that exists in finance.",
     autor: "Morgan Housel",
