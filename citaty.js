@@ -11,6 +11,69 @@
 
 const citaty = [
   {
+    citat: "The ability to do what you want, when you want, with who you want, for as long " +
+           "as you want to, pays the highest dividend that exists in finance.",
+    autor: "Morgan Housel",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
+    citat: "Money's greatest intrinsic value—and this can't be overstated—is its ability to " +
+           "give you control over your time.",
+    autor: "Morgan Housel",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
+    citat: "Spending money to show people how much money you have is the fastest way to " +
+           "have less money.",
+    autor: "Morgan Housel",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
+    citat: "Growth is driven by compounding, which always takes time. Destruction is driven " +
+           "by single points of failure, which can happen in seconds, and loss of " +
+           "confidence, which can happen in an instant.",
+    autor: "Morgan Housel",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
+    citat: "Nothing is as good or as bad as it seems.",
+    autor: "Morgan Housel",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
+    citat: "Risk is what's left over when you think you've thought of everything.",
+    autor: "Morgan Housel",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
+    citat: "Optimism sounds like a sales pitch. Pessimism sounds like someone trying to " +
+           "help you.",
+    autor: "Morgan Housel",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
+    citat: "His skill is investing, but his secret is time. That's how compounding works. " +
+           "Think of this another way. Buffett is the richest investor of all time. But " +
+           "he's not actually the greatest—at least not when measured by average annual " +
+           "returns.",
+    autor: "Morgan Housel",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
+    citat: "The luckier you are, the nicer you should be.",
+    autor: "Morgan Housel",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
     citat: "A lot of depression is just instant gratification to relieve the discomfort of " +
            "not having chosen delayed gratification and getting stuck in a vicious cycle.",
     autor: "Christina Buttons",
