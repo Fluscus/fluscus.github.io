@@ -11,6 +11,16 @@
 
 const citaty = [
   {
+    citat: "A wise old owl lived in an oak,<br>" +
+           "The more he saw, the less he spoke.<br>" +
+           "The less he spoke, the more he heard,<br>" +
+           "Why aren't we all like that bird?<br>" +
+           "Now, wasn't he a wise old bird?",
+    autor: "John D. Rockefeller",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
     citat: "Nothing in life is as important as you think it is when you are thinking about it.",
     autor: "Daniel Kahneman",
     komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
