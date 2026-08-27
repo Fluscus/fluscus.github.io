@@ -11,6 +11,12 @@
 
 const citaty = [
   {
+    citat: "If you want the rainbow, you gotta put up with the rain.",
+    autor: "Dolly Parton",
+    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
+              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+  },
+  {
     citat: "Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.",
     autor: "Morgan Housel",
     komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
