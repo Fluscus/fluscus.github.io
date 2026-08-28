@@ -17,8 +17,15 @@ const citaty = [
            "Why aren't we all like that bird?<br>" +
            "Now, wasn't he a wise old bird?",
     autor: "John D. Rockefeller",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Nikdo nemá správnou odpověď na všechno – a právě proto má smysl bavit se " +
+              "skoro o čemkoliv. Jde jen o to, říkat svůj názor, ne prohlašovat, že mám " +
+              "pravdu. Naslouchání je jediný způsob, jak se dá ten názor postupně " +
+              "zpřesňovat.<br><br>" +
+              "Spousta diskuzí přitom nikam nevede, ale často ne proto, že by se lidé " +
+              "neshodli. Je to tím, že celá diskuze stojí na chybných datech nebo mylných " +
+              "předpokladech. A někdy to vlastně diskuze ani není – každý mluví o něčem " +
+              "jiném, odbíhá od tématu nebo odpovídá na otázku, kterou nikdo nepoložil. To " +
+              "už není diskuze, to je mluvení přes sebe."
   },
   {
     citat: "Nothing in life is as important as you think it is when you are thinking about it.",
