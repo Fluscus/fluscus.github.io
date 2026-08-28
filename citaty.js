@@ -78,7 +78,8 @@ const citaty = [
   {
     citat: "Risk is what's left over when you think you've thought of everything.",
     autor: "Morgan Housel",
-    komentar: "Největším rizikem v investování není žádný konkrétní scénář, na který se dá připravit – " +
+    komentar: "Investování:</br>"+
+      "Největším rizikem v investování není žádný konkrétní scénář, na který se dá připravit – " +
       "je to samotná nejistota budoucnosti. Nikdo neví přesně, kde bude jakýkoliv trh za rok, " +
       "za pět nebo za dvacet let. Investování je těžké ne proto, že bychom neuměli počítat " +
       "pravděpodobnosti nebo číst grafy, ale proto, že se jich racionálně nedržíme a zároveň " +
