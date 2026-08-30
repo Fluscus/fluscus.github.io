@@ -30,15 +30,14 @@ const posts = [
     datum: "2026-03-16",
     nadpis: "16.03.2026",
     text: "Buffet již skončil v Berkshire. Ale jeho konec určitě není! Jakou filantropii " +
-          "předvede, bude neskutečné. Spekuluji, že jeho nástupcem v podobném myšlení bude " +
+          "předvede, bude neskutečné. Spekuluji, že jeho nástupcem v podobném světovém dosahu/dopadu bude " +
           "Morgan Housel."
   },
   {
     datum: "2025-03-22",
     nadpis: "22.03.2025",
     text: "Znám lidi, kteří jsou výborní v matematice, ale udělali iracionální finanční " +
-          "rozhodnutí. Konkrétně měli nad 90 percentil v SCIO matematice, ale koupili Nvidii " +
-          "na vrcholu.<br><br>" +
+          "rozhodnutí.<br><br>" +
           "Nechci nikoho urážet, jen poukázat, že investování není pouze o rozhodování na " +
           "základě matematiky, analýze a racionálním uvažování (spreadsheet), ale velmi velmi " +
           "důležité je lidské chování, emoce jako chamtivost a strach nebo fomo."
@@ -72,7 +71,7 @@ const posts = [
           "Housel)<br><br>" +
           "Uvidíme, že na oplátku se bude snažit být co nejtransparentnější pro blízké, aby " +
           "viděli, co vlastní. Bude jim říkat všechna tajemství a bude otevřený. Na ostatní " +
-          "může srát, ale zase jim umožní, aby měli možnost stát se jeho novými " +
+          "může brát menší ohled, ale zase jim umožní, aby měli možnost stát se jeho novými " +
           "investory.<br><br>" +
           "Buybacky, dividendy či růst akcií představují vděk od druhé osoby za neustálou " +
           "podporu, chování a strávený čas mezi vámi. Nechceme vidět dlouhodobě volatilní " +
