@@ -130,8 +130,12 @@ const citaty = [
            "he's not actually the greatest—at least not when measured by average annual " +
            "returns.",
     autor: "Morgan Housel",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Buffett je známý jako jeden z nejlepších investorů světa – a to je pravda. " +
+              "Ale většina lidí netuší, že jeho skutečné tajemství není roční zhodnocení, " +
+              "ale čas. Přesně takhle funguje úročení. Buffett je nejbohatší investor " +
+              "všech dob, ale podle průměrného ročního výnosu není ani zdaleka " +
+              "nejlepší.<br><br>" +
+              "99 % Buffettova majetku vzniklo až po jeho 65. narozeninách."
   },
   {
     citat: "The luckier you are, the nicer you should be.",
