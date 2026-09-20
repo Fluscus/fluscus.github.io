@@ -37,8 +37,11 @@ const citaty = [
   {
     citat: "The best math you can learn is how to calculate the future cost of current decisions.",
     autor: "Neznámý autor",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Naučit se odhadnout budoucí cenu dnešních rozhodnutí je asi ta nejužitečnější " +
+              "matematika, jakou se člověk může naučit – a zároveň ta nejtěžší. Přesně se to " +
+              "spočítat nedá; nikdy nevíme, kolik nás dané rozhodnutí bude skutečně stát za " +
+              "rok nebo za deset let. Ale i hrubý odhad je lepší než žádný. Důležité je na tu " +
+              "budoucí cenu vůbec myslet, ne ji ignorovat jen proto, že je nejistá."
   },
   {
     citat: "Just before you die, you meet all the versions of yourself that you could have " +
