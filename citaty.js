@@ -30,8 +30,9 @@ const citaty = [
   {
     citat: "Nothing in life is as important as you think it is when you are thinking about it.",
     autor: "Daniel Kahneman",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Čím déle na jedno téma myslíme, tím větší váhu mu nevědomky přidáváme, " +
+              "zatímco ostatní důležité věci prostě jen vypadnou z okna pozornosti – ne že " +
+              "by přestaly být důležité."
   },
   {
     citat: "The best math you can learn is how to calculate the future cost of current decisions.",
