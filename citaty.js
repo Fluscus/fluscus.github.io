@@ -78,8 +78,13 @@ const citaty = [
     citat: "Spending money to show people how much money you have is the fastest way to " +
            "have less money.",
     autor: "Morgan Housel",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Utrácet peníze za to, abychom ostatním ukázali, kolik jich máme, je " +
+              "nejrychlejší cesta k tomu mít jich méně. Bohatství totiž není to, co je " +
+              "vidět – auto, hodinky, dovolená na Instagramu. To je jen to, co jsme si " +
+              "koupili. Skutečné bohatství je to, co jsme si nekoupili a necháli si ho v " +
+              "podobě možností a nezávislosti.<br><br>" +
+              "Existují lepší způsoby, jak s penězi zacházet, abychom díky nim byli " +
+              "šťastnější a nezávislejší – většinou to ale znamená utrácet míň, ne víc."
   },
   {
     citat: "Growth is driven by compounding, which always takes time. Destruction is driven " +
