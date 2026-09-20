@@ -48,8 +48,12 @@ const citaty = [
            "been. The definition of a good life is that in that process, you are pleased " +
            "with how you turn out.",
     autor: "Neznámý autor",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Těsně před smrtí se prý potkáš se všemi verzemi sebe, kterými jsi mohl být. " +
+              "A dobrý život znamená, že s tím, jak ses nakonec vyvinul, budeš spokojený – " +
+              "bez lítosti nad tím, co jsi mohl udělat jinak.<br><br>" +
+              "Součástí té spokojenosti by měl být i respekt a obdiv lidí, na kterých ti " +
+              "nejvíc záleží. Nejde jen o to, být spokojený sám se sebou – jde i o to, jak " +
+              "si tě váží ti nejbližší."
   },
   {
     citat: "The ability to do what you want, when you want, with who you want, for as long " +
