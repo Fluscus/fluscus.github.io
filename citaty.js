@@ -68,8 +68,11 @@ const citaty = [
     citat: "Money's greatest intrinsic value—and this can't be overstated—is its ability to " +
            "give you control over your time.",
     autor: "Morgan Housel",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Nezávislost je jedna z nejdůležitějších věcí, kterou nám peníze mohou dát. " +
+              "Ne v tom smyslu, že si za ně koupíš cokoliv chceš, ale v tom, že ti dávají " +
+              "kontrolu nad vlastním časem – dělat co chceš, kdy chceš, s kým chceš, a tak " +
+              "dlouho, jak chceš. Právě tahle kontrola nad časem, ne nad věcmi, je ta " +
+              "nejcennější hodnota, kterou peníze mají."
   },
   {
     citat: "Spending money to show people how much money you have is the fastest way to " +
