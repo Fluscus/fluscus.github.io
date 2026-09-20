@@ -91,8 +91,10 @@ const citaty = [
            "by single points of failure, which can happen in seconds, and loss of " +
            "confidence, which can happen in an instant.",
     autor: "Morgan Housel",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Dobré věci se dějí pomalu a dlouho – to je síla úročení. Špatné zprávy a " +
+              "události se naopak dokážou stát ve zlomku vteřiny. Lidé si proto většinou " +
+              "všímají spíš těch špatných zpráv – jsou rychlé a spouští silnější " +
+              "adrenalinovou reakci než pomalý, nenápadný růst, který trvá roky."
   },
   {
     citat: "Nothing is as good or as bad as it seems.",
