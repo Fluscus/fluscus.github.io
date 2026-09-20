@@ -59,8 +59,10 @@ const citaty = [
     citat: "The ability to do what you want, when you want, with who you want, for as long " +
            "as you want to, pays the highest dividend that exists in finance.",
     autor: "Morgan Housel",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Nezávislost je jedna z nejdůležitějších věcí, kterou nám peníze mohou dát. " +
+              "Ne v tom smyslu, že si za ně koupíš cokoliv chceš, ale v tom, že ti dávají " +
+              "kontrolu nad vlastním časem – dělat co chceš, kdy chceš, s kým chceš, a tak " +
+              "dlouho, jak chceš."
   },
   {
     citat: "Money's greatest intrinsic value—and this can't be overstated—is its ability to " +
