@@ -147,8 +147,10 @@ const citaty = [
     citat: "A lot of depression is just instant gratification to relieve the discomfort of " +
            "not having chosen delayed gratification and getting stuck in a vicious cycle.",
     autor: "Christina Buttons",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Lidé mají obecně radši okamžité uspokojení, i když by v budoucnu mohli mít " +
+              "víc – tomu se v ekonomii říká present bias. Problém je, že se to dá " +
+              "zacyklit: čím víc voliš tu rychlou úlevu místo dlouhodobě lepšího " +
+              "rozhodnutí, tím hůř se z toho příště vystupuje."
   },
   {
     citat: "People are strange. They are constantly angered by trivial things but on a major " +
