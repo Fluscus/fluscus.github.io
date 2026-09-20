@@ -99,8 +99,9 @@ const citaty = [
   {
     citat: "Nothing is as good or as bad as it seems.",
     autor: "Morgan Housel",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Nic není tak dobré nebo tak špatné, jak se to v danou chvíli zdá. Po čase se " +
+              "skoro vždycky objeví něco, co tu prvotní reakci vyváží – další zpráva, " +
+              "další událost, jiný úhel pohledu."
   },
   {
     citat: "Risk is what's left over when you think you've thought of everything.",
@@ -116,8 +117,12 @@ const citaty = [
     citat: "Optimism sounds like a sales pitch. Pessimism sounds like someone trying to " +
            "help you.",
     autor: "Morgan Housel",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Když je někdo optimistický, zní to, jako by se ti snažil něco prodat – ať " +
+              "už produkt, investici nebo svůj názor. Automaticky mu proto trochu " +
+              "nedůvěřujeme. Pesimismus působí opačně: zní to, jako by se o tebe někdo " +
+              "bál a chtěl tě před něčím ochránit. Proto mu lidé věnují víc pozornosti a " +
+              "víc mu věří – i když varování nemusí mít pravdu o nic víc než ten " +
+              "optimistický odhad."
   },
   {
     citat: "His skill is investing, but his secret is time. That's how compounding works. " +
