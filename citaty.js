@@ -163,8 +163,12 @@ const citaty = [
   {
     citat: "So much misery is just an unfair judging of the statistics.",
     autor: "Alain de Botton",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "V investování je strašně moc neúspěchu způsobeno špatným zacházením s " +
+              "jednoduchou statistikou. Lidský mozek na statistiku prostě není intuitivně " +
+              "stavěný. Příkladem může být úročení – lidé podceňují, jak rychle roste " +
+              "exponenciální křivka. Nebo efekt přeživších: když se lidé srovnávají jen s " +
+              "fondy nebo akciemi, které přežily a vydělaly, poměřují se s číslem, které " +
+              "vůbec neodpovídá realitě – ty neúspěšné mezitím ze statistiky úplně zmizely."
   },
   {
     citat: "If you only wish to be happy, this could be easily accomplished; but we wish to " +
