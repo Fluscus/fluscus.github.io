@@ -175,8 +175,11 @@ const citaty = [
            "be happier than other people, and this is always difficult, for we believe " +
            "others to be happier than they are.",
     autor: "Montesquieu",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Chtít prostě jen být šťastný by nemusel být všudypřítomný problém. Jenže my " +
+              "chceme být šťastnější než ostatní – a to už je potíž, protože skoro vždycky " +
+              "přeceňujeme, jak šťastní ti druzí doopravdy jsou. Sociální sítě tenhle efekt " +
+              "jen umocňují: stačí pár fotek z dovolené a hned máme pocit, že je někdo " +
+              "šťastnější, než ve skutečnosti je."
   },
   {
     citat: "If you want the rainbow, you gotta put up with the rain.",
