@@ -11,6 +11,18 @@
 
 const citaty = [
   {
+    citat: "Na finančním trhu jsi buď býk, nebo medvěd. Já jsem lenochod. Pozoruji, " +
+           "nedělám ukvapená rozhodnutí a nechám si všechno dlouho projít hlavou, než " +
+           "změním názor.",
+    autor: "Já",
+    komentar: "Myslím, že většina investičního portfolia by měla být co nejnudnější. " +
+              "Držet se toho je ale hrozně těžké – snadno se člověk nechá strhnout a " +
+              "udělá ukvapené rozhodnutí, protože akciový trh je každý den jiný a " +
+              "působí na lidské emoce a chování. Proto je dobré vyčlenit malou část " +
+              "portfolia, řekněme 5–10 %, do nějaké jiné třídy aktiv nebo něčeho úplně " +
+              "jiného – něčeho, co ti pomůže se toho nudného portfolia držet."
+  },
+  {
     citat: "A wise old owl lived in an oak,<br>" +
            "The more he saw, the less he spoke.<br>" +
            "The less he spoke, the more he heard,<br>" +
