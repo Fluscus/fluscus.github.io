@@ -192,7 +192,9 @@ const citaty = [
   {
     citat: "Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.",
     autor: "Morgan Housel",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Plánování a předpovídání budoucnosti mají něco společného – tu samou " +
+              "nejistotu. Nejde se totiž připravit na to, co přesně se stane, jen na to, " +
+              "že se věci nakonec nestanou podle plánu. A právě to je ta nejtěžší část " +
+              "každého plánování."
   }
 ];
