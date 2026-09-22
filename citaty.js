@@ -148,7 +148,7 @@ const citaty = [
            "not having chosen delayed gratification and getting stuck in a vicious cycle.",
     autor: "Christina Buttons",
     komentar: "Lidé mají obecně radši okamžité uspokojení, i když by v budoucnu mohli mít " +
-              "víc – tomu se v ekonomii říká present bias. Problém je, že se to dá " +
+              "víc. Problém je, že se to dá " +
               "zacyklit: čím víc voliš tu rychlou úlevu místo dlouhodobě lepšího " +
               "rozhodnutí, tím hůř se z toho příště vystupuje."
   },
