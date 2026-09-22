@@ -156,8 +156,9 @@ const citaty = [
     citat: "People are strange. They are constantly angered by trivial things but on a major " +
            "matter like totally wasting their lives they hardly seem to notice.",
     autor: "Charles Bukowski",
-    komentar: "Sem napiš svůj pohled na tenhle citát – proč tě zaujal, souhlasíš s ním, " +
-              "nebo si o něm myslíš něco jiného. Klidně ho smaž a nahraď svým vlastním citátem."
+    komentar: "Je asi pravda, že zpětně spousta lidí lituje, kolik energie věnovali vzteku " +
+              "nad maličkostmi. To nejdůležitější – že jim mezitím utíká celý život – si " +
+              "přitom vůbec nevšimli."
   },
   {
     citat: "So much misery is just an unfair judging of the statistics.",
