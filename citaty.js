@@ -11,6 +11,14 @@
 
 const citaty = [
   {
+    citat: "I train like I have never won, and I compete like I have never lost.",
+    autor: "Neznámý autor",
+    komentar: "Tohle je asi ta nejvyšší forma cílevědomosti. Trénovat s pokorou, jako bys " +
+              "ještě nikdy nevyhrál, a zároveň soutěžit s klidem, jako bys ještě nikdy " +
+              "neprohrál – umět takhle přepínat mezi dvěma protichůdnými stavy mysli je " +
+              "extrémně náročné. Asi proto to zvládají jen ti úplně nejlepší sportovci."
+  },
+  {
     citat: "Na finančním trhu jsi buď býk, nebo medvěd. Já jsem lenochod. Pozoruji, " +
            "nedělám ukvapená rozhodnutí a nechám si všechno dlouho projít hlavou, než " +
            "změním názor.",
