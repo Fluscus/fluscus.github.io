@@ -11,6 +11,16 @@
 
 const citaty = [
   {
+    citat: "It takes 20 years to build a reputation and five minutes to ruin it. If you " +
+           "think about that, you'll do things differently.",
+    autor: "Warren Buffett",
+    komentar: "Dobré věci se budují dlouho a postupně, díky úročení. Přesně tak je to i s " +
+              "reputací – trvá roky ji vybudovat, ale stačí jedna chyba a je pryč. V " +
+              "investování to platí dvojnásob: stačí zlikvidovat portfolio kvůli páce, " +
+              "nebo jako portfolio manažer přestat být transparentní vůči klientům, a " +
+              "důvěra budovaná léta zmizí prakticky přes noc."
+  },
+  {
     citat: "I train like I have never won, and I compete like I have never lost.",
     autor: "Neznámý autor",
     komentar: "Tohle je asi ta nejvyšší forma cílevědomosti. Trénovat s pokorou, jako bys " +
